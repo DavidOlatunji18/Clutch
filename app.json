@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "clutch",
+    "slug": "clutch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/IMG_0340.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.clutch"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
