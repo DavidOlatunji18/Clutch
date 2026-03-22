@@ -19,6 +19,7 @@ npx expo start
 You must have Node.js installed, Expo CLI installed (npm install -g expo-cli) and have an emulator or Expo Go app on your physical device.
 
 ## Screenshots
+### Live Screen
 ![Live Screen](assets/screenshot_live.png)
 
 ## Demo
