@@ -18,6 +18,12 @@ npm install
 npx expo start
 You must have Node.js installed, Expo CLI installed (npm install -g expo-cli) and have an emulator or Expo Go app on your physical device.
 
+## Screenshots
+![Live Screen](assets/screenshot_live.png)
+
+## Demo
+[▶️ Watch Full Demo](https://youtu.be/Dy0voTBXvVA?si=bgR09STiRw7r_1h7)
+
 ## Extra Information
 Like I said earlier, this application needs an API key for it to function properly. A free account can be created at API-Football which will give you access to an API key.
 So, in the project files where API requests are made, replace the placeholder with your actual key.
@@ -28,7 +34,7 @@ headers: {
 
 ### Author
 - Name: David Olatunji
-- Email: jl05055@umbc.edu
-- GitHub: David-Olatunji
+- Email: jl05055@umbc.edu / davidolatunjidev@gmail.com
+- GitHub: DavidOlatunji18
 
 
