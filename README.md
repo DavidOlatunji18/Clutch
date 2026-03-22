@@ -12,7 +12,7 @@ Clutch is built with React Native (Expo) and makes use of API-Football for all t
 
 ## Installation
 Run these commands:
-git clone https://github.com/umbc-cmsc437-sp2025/semester-project-clutch-app.git
+git clone https://github.com/DavidOlatunji18/Clutch.git 
 cd clutch-app
 npm install
 npx expo start
